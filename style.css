@@ -1,0 +1,79 @@
+  select, input{
+    width:80px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 5px;
+    text-align:center;
+
+  }
+input[type="number"]{
+    width:70px;
+    height: 25px;
+    border-radius: 5px;
+    margin: 5px;
+    text-align:center;
+}
+
+input[type="button"]{
+   
+    height: 30px;
+     color:white;
+    margin-left:10px;
+}
+
+input[type="submit"]{
+    width:60px;
+    height: 30px;
+    background-color: red;
+    border: 2px solid red;
+    color:white;
+    margin:5px;
+}
+
+
+td{
+    margin:0px;
+    padding: 0px;
+    border:none;
+    float: left;
+
+}
+table{
+    border:none;
+}
+
+
+.row_del{
+    width:70px;
+    height: 30px;
+    background-color: red;
+    border: 2px solid red;
+    color:white;
+    margin:5px;
+    float:left;
+}
+
+
+.row_add{
+    width:70px;
+    height: 30px;
+    background-color: green;
+    border: 2px solid green;
+    color:white;
+    margin-left:5px;
+    float:left;
+}
+
+
+#Clear{
+    width:60px;
+    height: 30px;
+    background-color: orange;
+    border: 2px solid orange;
+    color:white;
+    margin:5px;
+}
+
+#btnGet{
+margin-left:5px;    
+}  
